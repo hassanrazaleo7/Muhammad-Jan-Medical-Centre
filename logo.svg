@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Jan Homeopathic Medical Centre</title>
+  <desc id="desc">Clinic logo with a botanical sprout and medical cross emblem in dark ink and forest green.</desc>
+  <g transform="translate(8 10)">
+    <circle cx="80" cy="80" r="70" fill="none" stroke="#315c52" stroke-width="4"/>
+    <path d="M80 119C65 104 48 92 43 72c18 0 32 11 37 29 5-18 19-29 37-29-5 20-22 32-37 47Z" fill="#172d36"/>
+    <path d="M80 118v20M80 101 60 83M80 101l20-18" fill="none" stroke="#315c52" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+    <path d="M80 37v28M66 51h28" fill="none" stroke="#315c52" stroke-linecap="round" stroke-width="7"/>
+  </g>
+  <text x="390" y="74" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700" letter-spacing="-.6"><tspan fill="#172d36">Muhammad </tspan><tspan fill="#315c52">Jan</tspan></text>
+  <text x="390" y="109" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.2"><tspan fill="#172d36">HOMEOPATHIC </tspan><tspan fill="#315c52">MEDICAL CENTRE</tspan></text>
+</svg>
